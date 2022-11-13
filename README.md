@@ -34,9 +34,9 @@
 <table class="image-table">
 
 <td>
- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ahmtydn&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ <img width="80%" src="https://github-readme-stats.vercel.app/api?username=ahmtydn&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  <br/>
- <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmtydn"/>
+ <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmtydn"/>
 </td>
 <td>
  <img width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmtydn&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
