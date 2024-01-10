@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi 👋, I'm Ahmet Aydın<br>I'm a Software Team Lead
 
 
